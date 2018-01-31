@@ -43,7 +43,7 @@ For example: <br/>
 }</style>
 </code>
 </pre>
-<pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button"&lt;Download&lt;/a&gt;</code></pre>
+<pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button"&gt;Download&lt;/a&gt;</code></pre>
 <br>
 
 <b>SUPPORT:</b><br>
