@@ -22,10 +22,11 @@ this API.<br>
 
 <b>BUTTON API: </b><br>
 <pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL"&gt;Download Link&lt;/a&gt;</code></pre>
-
 <br>
-
 <b>CSS STYLESHEETS FOR BUTTON API: </b><br>
+You can also use these predefined css styles with the html button link to customize it.<br/>
+
+For example: <br/>
 <pre>
 <code>
 <style>.button {
@@ -42,6 +43,7 @@ this API.<br>
 }</style>
 </code>
 </pre>
+<pre><code><a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button">Your own text</a></code></pre>
 <br>
 
 <b>SUPPORT:</b><br>
