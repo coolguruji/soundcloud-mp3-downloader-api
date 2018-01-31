@@ -19,11 +19,11 @@ Right now you can access our API via iframe / html link only. We will add more o
 <br/>
 
 <b>IFRAME API [Track ID]: </b><br>
-<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_ID" width="480" height="160" scrolling="no" style="border:none;"></iframe></code></pre><br>
+<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_ID" width="480" height="40" scrolling="no" style="border:none;"></iframe></code></pre><br>
 
 <b>IFRAME API [Track URL]: </b><br>
 
-<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL" width="480" height="160" scrolling="no" style="border:none;"></iframe></code></pre>
+<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL" width="480" height="40" scrolling="no" style="border:none;"></iframe></code></pre>
 
 <b>BUTTON API: </b><br>
 <pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL"&gt;Download Link&lt;/a&gt;</code></pre>
@@ -46,12 +46,20 @@ To Create Green Color Button: <br/>
     margin: 4px 2px;
     cursor: pointer;
 }</style>
-</code>
-</pre>
-<br>
-<pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button"&gt;Download&lt;/a&gt;</code></pre>
+
+
+&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button"&gt;Download&lt;/a&gt;</code></pre>
 <br>
 
+
+<b>Optional parameters: </b><br/>
+Dont use # in the parameters,<br>
+fc (font-color)       => ffffff<br>
+bc (background-color) => 000000<br>
+Example:<br>
+<pre>
+<code<iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL&fc=ffffff&bc=000000" width="480" height="40" scrolling="no" style="border:none;"></iframe></code></pre>
+<br>
 
 
 <b>Button Colors:</b><br/>
@@ -254,7 +262,7 @@ Use the :hover selector to change the style of a button when you move the mouse 
 Right now we have limited support via E-mail's. <br>
 Via E-mail us : info@soundclouddownloader.info <br>
 
-<b>DISCLAIMNER:</b><br>
+<b>DISCLAIMER:</b><br>
 
 We do not host (or serve/stream) any 
 copyrighted/pirated content (SoundCloud Tracks) on (or from) our server. Users 
