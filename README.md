@@ -9,8 +9,9 @@ This API is a powered by
 <b>ABOUT API:</b> <br>
 This API is free to use for everyone. You 
 can also customize it's designed as per your websites theme / requirement. Its a 
-free service and always will be. Documentation: You can access this API via 
-Iframe or HTML link as well. We have documented it to give you a working demo of 
+free service and always will be. <br>
+
+<b>Documentation:</b><br> You can access this API via Iframe or HTML link as well. We have documented it to give you a working demo of 
 this API.<br>
 
 <b>EXAMPLES: IFRAME API [Track ID]: </b><br>
