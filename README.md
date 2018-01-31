@@ -14,7 +14,11 @@ free service and always will be. <br>
 <b>Documentation:</b><br> You can access this API via Iframe or HTML link as well. We have documented it to give you a working demo of 
 this API.<br>
 
-<b>EXAMPLES: IFRAME API [Track ID]: </b><br>
+<b>EXAMPLES:</b><br/>
+Right now you can access our API via iframe / html link only. We will add more options in future.
+<br/>
+
+<b>IFRAME API [Track ID]: </b><br>
 <pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_ID" width="480" height="160" scrolling="no" style="border:none;"></iframe></code></pre><br>
 
 <b>IFRAME API [Track URL]: </b><br>
