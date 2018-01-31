@@ -26,7 +26,7 @@ this API.<br>
 <br>
 
 <b>CSS STYLESHEETS FOR BUTTON API: </b><br>
-
+<pre>
 <code>
 <style>.button {
     background-color: #4CAF50; /* Green */
@@ -41,6 +41,7 @@ this API.<br>
     cursor: pointer;
 }</style>
 </code>
+</pre>
 <br>
 
 <b>SUPPORT:</b><br>
