@@ -45,6 +45,8 @@ For example: <br/>
 </pre>
 <pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button"&gt;Download&lt;/a&gt;</code></pre>
 <br>
+DEMO:<br>
+<a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button">Download</a>
 
 <b>SUPPORT:</b><br>
 
