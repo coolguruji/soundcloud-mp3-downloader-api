@@ -57,8 +57,7 @@ Dont use # in the parameters,<br>
 fc (font-color)       => ffffff<br>
 bc (background-color) => 000000<br>
 Example:<br>
-<pre>
-<code<iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL&fc=ffffff&bc=000000" width="480" height="40" scrolling="no" style="border:none;"></iframe></code></pre>
+<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL&fc=ffffff&bc=000000" width="480" height="40" scrolling="no" style="border:none;"></iframe></code></pre>
 <br>
 
 
