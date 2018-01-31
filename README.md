@@ -26,7 +26,7 @@ this API.<br>
 <b>CSS STYLESHEETS FOR BUTTON API: </b><br>
 You can also use these predefined css styles with the html button link to customize it.<br/>
 
-For example: <br/>
+To Create Green Color Button: <br/>
 <pre>
 <code>
 <style>.button {
@@ -43,24 +43,24 @@ For example: <br/>
 }</style>
 </code>
 </pre>
+<br>
 <pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button"&gt;Download&lt;/a&gt;</code></pre>
 <br>
 
-<style>.button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}</style>
-
-DEMO:<br>
-<a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button">Download</a>
+To Create Blue, Red, black, Gray Color Button: <br/>
+<pre>
+<code>
+<style>
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+.button5 {background-color: #555555;} /* Black */
+</style>
+</code>
+</pre>
+<br>
+<pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL" class="button button2"&gt;Download&lt;/a&gt;</code></pre>
+<br/>
 
 <b>SUPPORT:</b><br>
 
