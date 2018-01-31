@@ -20,7 +20,8 @@ this API.<br>
 
 <code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL" width="480" height="160" scrolling="no" style="border:none;"></iframe></code>
 
-<b>BUTTON API: </b><br><![CDATA[<code> <a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL">Download Link</a> </code>]]>
+<b>BUTTON API: </b><br>
+<code><a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL">Download Link</a></code>
 
 <br>
 
