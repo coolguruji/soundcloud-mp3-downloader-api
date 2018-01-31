@@ -22,7 +22,7 @@ this API.<br>
 
 <b>BUTTON API: </b><br>
 
-<code><a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL">Download Link</a></code><br>
+<![CDATA[ <code> <a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL">Download Link</a> </code> here]]><br>
 
 <b>CSS STYLESHEETS FOR BUTTON API: </b><br>
 
