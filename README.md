@@ -14,11 +14,11 @@ Iframe or HTML link as well. We have documented it to give you a working demo of
 this API.<br>
 
 <b>EXAMPLES: IFRAME API [Track ID]: </b><br>
-<code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_ID" width="480" height="160" scrolling="no" style="border:none;"></iframe></code><br>
+<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_ID" width="480" height="160" scrolling="no" style="border:none;"></iframe></code></pre><br>
 
 <b>IFRAME API [Track URL]: </b><br>
 
-<code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL" width="480" height="160" scrolling="no" style="border:none;"></iframe></code>
+<pre><code><iframe src="https://soundclouddownloader.info/iframe-api/?t=SOUNDCLOUD_TRACK_URL" width="480" height="160" scrolling="no" style="border:none;"></iframe></code></pre>
 
 <b>BUTTON API: </b><br>
 <pre><code>&lt;a href="https://soundclouddownloader.info/button-api/?t=SOUNDCLOUD_TRACK_ID/TRACK_URL"&gt;Download Link&lt;/a&gt;</code></pre>
@@ -49,7 +49,7 @@ To Create Green Color Button: <br/>
 
 
 
-<b>Button Colors:<b><br/>
+<b>Button Colors:</b><br/>
 Use the background-color property to change the background color of a button: <br/>
 <pre>
 <code>
@@ -64,7 +64,7 @@ Use the background-color property to change the background color of a button: <b
 <br/>
 
 
-<b>Button Sizes:<b><br/>
+<b>Button Sizes:</b><br/>
 Use the font-size property to change the font size of a button:
 <br/>
 <pre>
@@ -96,7 +96,7 @@ Use the padding property to change the padding of a button:
 </pre>
 <br/>
 
-<b>Rounded Buttons:<b><br/>
+<b>Rounded Buttons:</b><br/>
 Use the border-radius property to add rounded corners to a button:
 <br/>
 <pre>
@@ -112,7 +112,7 @@ Use the border-radius property to add rounded corners to a button:
 </pre>
 <br>
 
-<b>Colored Button Borders:<b><br/>
+<b>Colored Button Borders:</b><br/>
 Use the border property to add a colored border to a button:
 <br/>
 <pre>
@@ -165,7 +165,7 @@ Use the border property to add a colored border to a button:
 </pre>
 <br>
 
-<b>Hoverable Buttons:<b><br/>
+<b>Hoverable Buttons:</b><br/>
 Use the :hover selector to change the style of a button when you move the mouse over it.<br>
 <strong>Tip:</strong> Use the transition-duration property to determine the speed of the "hover" effect:
 <br/>
